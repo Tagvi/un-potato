@@ -470,14 +470,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "notify"
-version = "0.1.0"
-dependencies = [
- "notify-rust",
- "tokio",
-]
-
-[[package]]
 name = "notify-rust"
 version = "4.7.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -982,6 +974,14 @@ checksum = "ce65604324d3cce9b966701489fbd0cf318cb1f7bd9dd07ac9a4ee6fb791930d"
 dependencies = [
  "tempfile",
  "winapi",
+]
+
+[[package]]
+name = "un-potato"
+version = "0.1.0"
+dependencies = [
+ "notify-rust",
+ "tokio",
 ]
 
 [[package]]
