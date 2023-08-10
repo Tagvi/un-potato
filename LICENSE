@@ -21,4 +21,7 @@ OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
-For more information, please refer to <https://unlicense.org>
+The included file `src/bundle/alarm.mp3` is not owned by the authors of this software. It is provided for demonstration purposes only. The ownership and copyright of this file belong to its respective owners.
+This file is not covered by the software's license and may be subject to separate licensing terms. Please refer to the original source or license of the `alarm.mp3` file for more information.
+
+For more information about the software's licensing, please refer to <https://unlicense.org>.
